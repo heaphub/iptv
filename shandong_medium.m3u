@@ -1,0 +1,339 @@
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="CQTV1" tvg-name="CQTV1" tvg-logo="https://epg.v1.mk/logo/CQTV1.png" group-title="其他",QTV1(720P)
+http://112.255.69.58:6666/rtp/239.253.254.249:8000
+#EXTINF:-1,tvg-id="CQTV2" tvg-name="CQTV2" tvg-logo="https://epg.v1.mk/logo/CQTV2.png" group-title="其他",QTV2(720P)
+http://112.255.69.58:6666/rtp/239.253.254.250:8000
+#EXTINF:-1,tvg-id="CQTV3" tvg-name="CQTV3" tvg-logo="https://epg.v1.mk/logo/CQTV3.png" group-title="其他",QTV3(720P)
+http://112.255.69.58:6666/rtp/239.253.254.251:8000
+#EXTINF:-1,tvg-id="CQTV4" tvg-name="CQTV4" tvg-logo="https://epg.v1.mk/logo/CQTV4.png" group-title="其他",QTV4(720P)
+http://112.255.69.58:6666/rtp/239.253.254.252:8000
+#EXTINF:-1,tvg-id="CQTV5" tvg-name="CQTV5" tvg-logo="https://epg.v1.mk/logo/CQTV5.png" group-title="其他",QTV5(720P)
+http://112.255.69.58:6666/rtp/239.253.254.253:8000
+#EXTINF:-1,tvg-id="CQTV6" tvg-name="CQTV6" tvg-logo="https://epg.v1.mk/logo/CQTV6.png" group-title="其他",QTV6(720P)
+http://112.255.69.58:6666/rtp/239.253.254.254:8000
+#EXTINF:-1,tvg-id="bestv青春动漫" tvg-name="bestv青春动漫" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="其他",青岛崂山
+http://112.255.69.58:6666/rtp/239.253.254.242:8000
+#EXTINF:-1,tvg-id="bestv青春动漫" tvg-name="bestv青春动漫" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="其他",青岛西海岸
+http://112.255.69.58:6666/rtp/239.253.254.243:8000
+#EXTINF:-1,tvg-id="CGTN法语黄色" tvg-name="CGTN法语黄色" tvg-logo="https://epg.v1.mk/logo/CGTN法语黄色.png" group-title="其他",黄岛生活
+http://112.255.69.58:6666/rtp/239.253.254.244:8000
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",胶州电视台HD
+http://112.255.69.58:6666/rtp/239.253.254.246:8000
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",即墨电视台HD
+http://112.255.69.58:6666/rtp/239.253.254.245:8000
+#EXTINF:-1,tvg-id="乐陵城市生活" tvg-name="乐陵城市生活" tvg-logo="https://epg.v1.mk/logo/乐陵城市生活.png" group-title="其他",城阳电视台
+http://112.255.69.58:6666/rtp/239.253.254.239:8000
+#EXTINF:-1,tvg-id="临平新闻" tvg-name="临平新闻" tvg-logo="https://epg.v1.mk/logo/临平新闻.png" group-title="其他",平度电视台
+http://112.255.69.58:6666/rtp/239.253.254.248:8000
+#EXTINF:-1,tvg-id="CIBN好莱坞" tvg-name="CIBN好莱坞" tvg-logo="https://epg.v1.mk/logo/CIBN好莱坞.png" group-title="其他",莱西综合HD
+http://112.255.69.58:6666/rtp/239.253.254.247:8000
+#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://epg.v1.mk/logo/山东体育.png" group-title="山东",山东体育HD
+http://112.255.69.58:6666/rtp/239.253.254.22:8000
+#EXTINF:-1,tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://epg.v1.mk/logo/山东齐鲁.png" group-title="山东",山东齐鲁HD
+http://112.255.69.58:6666/rtp/239.253.254.114:8000
+#EXTINF:-1,tvg-id="山东公共" tvg-name="山东公共" tvg-logo="https://epg.v1.mk/logo/山东公共.png" group-title="山东",山东公共HD
+http://112.255.69.58:6666/rtp/239.253.254.23:8000
+#EXTINF:-1,tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://epg.v1.mk/logo/山东综艺.png" group-title="山东",山东综艺HD
+http://112.255.69.58:6666/rtp/239.253.254.159:8000
+#EXTINF:-1,tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://epg.v1.mk/logo/山东生活.png" group-title="山东",山东生活HD
+http://112.255.69.58:6666/rtp/239.253.254.151:8000
+#EXTINF:-1,tvg-id="NewTV山东" tvg-name="NewTV山东" tvg-logo="https://epg.v1.mk/logo/NewTV山东.png" group-title="山东",山东影视HD
+http://112.255.69.58:6666/rtp/239.253.254.160:8000
+#EXTINF:-1,tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://epg.v1.mk/logo/山东少儿.png" group-title="山东",山东少儿HD
+http://112.255.69.58:6666/rtp/239.253.254.25:8000
+#EXTINF:-1,tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://epg.v1.mk/logo/山东农科.png" group-title="山东",山东农科HD
+http://112.255.69.58:6666/rtp/239.253.254.24:8000
+#EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.v1.mk/logo/山东教育.png" group-title="山东",山东教育HD
+http://112.255.69.58:6666/rtp/239.253.254.59:8000
+#EXTINF:-1,tvg-id="山东国际" tvg-name="山东国际" tvg-logo="https://epg.v1.mk/logo/山东国际.png" group-title="山东",山东国际
+http://112.255.69.58:6666/rtp/239.253.254.26:8000
+#EXTINF:-1,tvg-id="NewTV山东" tvg-name="NewTV山东" tvg-logo="https://epg.v1.mk/logo/NewTV山东.png" group-title="山东",山东居家
+http://112.255.69.58:6666/rtp/239.253.254.104:8000
+#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="山东",山东教育卫视
+http://112.255.69.58:6666/rtp/239.253.254.59:8000
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1HD
+http://112.255.69.58:6666/rtp/239.253.254.77:8000
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV2HD
+http://112.255.69.58:6666/rtp/239.253.254.232:8000
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV3HD
+http://112.255.69.58:6666/rtp/239.253.254.191:8000
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV3HD
+http://112.255.69.58:6666/rtp/239.253.254.4:8000
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV4HD
+http://112.255.69.58:6666/rtp/239.253.254.111:8000
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV5HD
+http://112.255.69.58:6666/rtp/239.253.254.192:8000
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV5HD
+http://112.255.69.58:6666/rtp/239.253.254.6:8000
+#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV5+HD
+http://112.255.69.58:6666/rtp/239.253.254.80:8000
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV6HD
+http://112.255.69.58:6666/rtp/239.253.254.193:8000
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV6HD
+http://112.255.69.58:6666/rtp/239.253.254.7:8000
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7HD
+http://112.255.69.58:6666/rtp/239.253.254.233:8000
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV8HD
+http://112.255.69.58:6666/rtp/239.253.254.194:8000
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV8HD
+http://112.255.69.58:6666/rtp/239.253.254.9:8000
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV9HD
+http://112.255.69.58:6666/rtp/239.253.254.79:8000
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10HD
+http://112.255.69.58:6666/rtp/239.253.254.234:8000
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11HD
+http://112.255.69.58:6666/rtp/239.253.254.169:8000
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11HD
+http://112.255.69.58:6666/rtp/239.253.254.239:8000
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12HD
+http://112.255.69.58:6666/rtp/239.253.254.235:8000
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV13HD
+http://112.255.69.58:6666/rtp/239.253.254.175:8000
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14HD
+http://112.255.69.58:6666/rtp/239.253.254.236:8000
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV15HD
+http://112.255.69.58:6666/rtp/239.253.254.170:8000
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17HD
+http://112.255.69.58:6666/rtp/239.253.254.168:8000
+#EXTINF:-1,tvg-id="CCTV4K(1)" tvg-name="CCTV4K(1)" tvg-logo="https://epg.v1.mk/logo/CCTV4K(1).png" group-title="央视",CCTV4K（超高清）
+http://112.255.69.58:6666/rtp/239.253.254.122:8000
+#EXTINF:-1,tvg-id="CCTV4K(1)" tvg-name="CCTV4K(1)" tvg-logo="https://epg.v1.mk/logo/CCTV4K(1).png" group-title="央视",CCTV4K（超高清）
+http://112.255.69.58:6666/rtp/239.253.254.181:8000
+#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="其他",CGTV
+http://112.255.69.58:6666/rtp/239.253.254.17:8000
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.84:8000
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="湖南",湖南卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.82:8000
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="江苏",江苏卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.83:8000
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.86:8000
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="北京",北京卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.85:8000
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="山东",山东卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.78:8000
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="山东",山东卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.18:8000
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="广东",广东卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.90:8000
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.91:8000
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="安徽",安徽卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.87:8000
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.93:8000
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="湖北",湖北卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.88:8000
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="辽宁",辽宁卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.92:8000
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.105:8000
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.89:8000
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="贵州",贵州卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.113:8000
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="江西",江西卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.47:8000
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="河北",河北卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.112:8000
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="陕西",陕西卫视
+http://112.255.69.58:6666/rtp/239.253.254.49:8000
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="重庆",重庆卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.38:8000
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.v1.mk/logo/中国教育1台.png" group-title="其他",中国教育1台HD
+http://112.255.69.58:6666/rtp/239.253.254.110:8000
+#EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://epg.v1.mk/logo/中国教育2台.png" group-title="其他",中国教育2台HD
+http://112.255.69.58:6666/rtp/239.253.254.107:8000
+#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.v1.mk/logo/中国教育4台.png" group-title="其他",中国教育4台HD
+http://112.255.69.58:6666/rtp/239.253.254.108:8000
+#EXTINF:-1,tvg-id="旅游卫视" tvg-name="旅游卫视" tvg-logo="https://epg.v1.mk/logo/旅游卫视.png" group-title="卫视",旅游卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.179:8000
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="山西",山西卫视
+http://112.255.69.58:6666/rtp/239.253.254.48:8000
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="海南",海南卫视
+http://112.255.69.58:6666/rtp/239.253.254.179:8000
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="四川",四川卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.180:8000
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="吉林",吉林卫视
+http://112.255.69.58:6666/rtp/239.253.254.46:8000
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="河南",河南卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.190:8000
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="河南",河南卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.44:8000
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="卫视",广西卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.197:8000
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="卫视",广西卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.40:8000
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="云南",云南卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.196:8000
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="云南",云南卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.42:8000
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://112.255.69.58:6666/rtp/239.253.254.58:8000
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="青海",青海卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.195:8000
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="青海",青海卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.54:8000
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://112.255.69.58:6666/rtp/239.253.254.53:8000
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://112.255.69.58:6666/rtp/239.253.254.60:8000
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视
+http://112.255.69.58:6666/rtp/239.253.254.56:8000
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="甘肃",甘肃卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.176:8000
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="甘肃",甘肃卫视HD
+http://112.255.69.58:6666/rtp/239.253.254.52:8000
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
+http://112.255.69.58:6666/rtp/239.253.254.57:8000
+#EXTINF:-1,tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
+http://112.255.69.58:6666/rtp/239.253.254.70:8000
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.v1.mk/logo/三沙卫视.png" group-title="卫视",三沙卫视
+http://112.255.69.58:6666/rtp/239.253.254.171:8000
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="卫视",厦门卫视
+http://112.255.69.58:6666/rtp/239.253.254.106:8000
+#EXTINF:-1,tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://epg.v1.mk/logo/卡酷动画.png" group-title="其他",卡酷动画
+http://112.255.69.58:6666/rtp/239.253.254.61:8000
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="其他",金鹰卡通
+http://112.255.69.58:6666/rtp/239.253.254.62:8000
+#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="其他",哈哈炫动
+http://112.255.69.58:6666/rtp/239.253.254.63:8000
+#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.v1.mk/logo/优漫卡通.png" group-title="其他",优漫卡通
+http://112.255.69.58:6666/rtp/239.253.254.64:8000
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通
+http://112.255.69.58:6666/rtp/239.253.254.65:8000
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰纪实.png" group-title="其他",金鹰纪实
+http://112.255.69.58:6666/rtp/239.253.254.103:8000
+#EXTINF:-1,tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://epg.v1.mk/logo/先锋乒羽.png" group-title="其他",先锋乒羽
+http://112.255.69.58:6666/rtp/239.253.254.155:8000
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="其他",都市剧场
+http://112.255.69.58:6666/rtp/239.253.254.178:8000
+#EXTINF:-1,tvg-id="体育赛事" tvg-name="体育赛事" tvg-logo="https://epg.v1.mk/logo/体育赛事.png" group-title="其他",体育赛事
+http://112.255.69.58:6666/rtp/239.253.254.172:8000
+#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.v1.mk/logo/中国交通.png" group-title="其他",中国交通
+http://112.255.69.58:6666/rtp/239.253.254.177:8000
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰纪实.png" group-title="其他",金鹰纪实HD
+http://112.255.69.58:6666/rtp/239.253.254.103:8000
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.v1.mk/logo/上海纪实.png" group-title="上海",上海纪实HD
+http://112.255.69.58:6666/rtp/239.253.254.81:8000
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="其他",CHC家庭电影HD
+http://112.255.69.58:6666/rtp/239.253.254.152:8000
+#EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="其他",CHC动作电影HD
+http://112.255.69.58:6666/rtp/239.253.254.153:8000
+#EXTINF:-1,tvg-id="chc高清电影" tvg-name="chc高清电影" tvg-logo="https://epg.v1.mk/logo/chc高清电影.png" group-title="其他",CHC高清电影HD
+http://112.255.69.58:6666/rtp/239.253.254.154:8000
+#EXTINF:-1,tvg-id="海看热播" tvg-name="海看热播" tvg-logo="https://epg.v1.mk/logo/海看热播.png" group-title="其他",海看热播HD
+http://112.255.69.58:6666/rtp/239.253.254.94:8000
+#EXTINF:-1,tvg-id="海看大片" tvg-name="海看大片" tvg-logo="https://epg.v1.mk/logo/海看大片.png" group-title="其他",海看大片HD
+http://112.255.69.58:6666/rtp/239.253.254.97:8000
+#EXTINF:-1,tvg-id="海看剧场" tvg-name="海看剧场" tvg-logo="https://epg.v1.mk/logo/海看剧场.png" group-title="其他",海看剧场HD
+http://112.255.69.58:6666/rtp/239.253.254.98:8000
+#EXTINF:-1,tvg-id="海看爱宠" tvg-name="海看爱宠" tvg-logo="https://epg.v1.mk/logo/海看爱宠.png" group-title="其他",海看爱宠HD
+http://112.255.69.58:6666/rtp/239.253.254.96:8000
+#EXTINF:-1,tvg-id="海看少儿" tvg-name="海看少儿" tvg-logo="https://epg.v1.mk/logo/海看少儿.png" group-title="其他",海看少儿HD
+http://112.255.69.58:6666/rtp/239.253.254.99:8000
+#EXTINF:-1,tvg-id="海看电竞" tvg-name="海看电竞" tvg-logo="https://epg.v1.mk/logo/海看电竞.png" group-title="其他",海看电竞HD
+http://112.255.69.58:6666/rtp/239.253.254.115:8000
+#EXTINF:-1,tvg-id="海看4K" tvg-name="海看4K" tvg-logo="https://epg.v1.mk/logo/海看4K.png" group-title="其他",海看4K UHD
+http://112.255.69.58:6666/rtp/239.253.254.101:8000
+#EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.v1.mk/logo/爱上4K.png" group-title="其他",爱上4K UHD
+http://112.255.69.58:6666/rtp/239.253.254.102:8000
+#EXTINF:-1,tvg-id="IPTV3+" tvg-name="IPTV3+" tvg-logo="https://epg.v1.mk/logo/IPTV3+.png" group-title="其他",IPTV3HD
+http://112.255.69.58:6666/rtp/239.253.254.129:8000
+#EXTINF:-1,tvg-id="IPTV5+" tvg-name="IPTV5+" tvg-logo="https://epg.v1.mk/logo/IPTV5+.png" group-title="其他",IPTV5HD
+http://112.255.69.58:6666/rtp/239.253.254.109:8000
+#EXTINF:-1,tvg-id="IPTV5+" tvg-name="IPTV5+" tvg-logo="https://epg.v1.mk/logo/IPTV5+.png" group-title="其他",IPTV5HD
+http://112.255.69.58:6666/rtp/239.253.254.131:8000
+#EXTINF:-1,tvg-id="IPTV6+" tvg-name="IPTV6+" tvg-logo="https://epg.v1.mk/logo/IPTV6+.png" group-title="其他",IPTV6HD
+http://112.255.69.58:6666/rtp/239.253.254.128:8000
+#EXTINF:-1,tvg-id="IPTV8+" tvg-name="IPTV8+" tvg-logo="https://epg.v1.mk/logo/IPTV8+.png" group-title="其他",IPTV8HD
+http://112.255.69.58:6666/rtp/239.253.254.132:8000
+#EXTINF:-1,tvg-id="IPTV经典电影" tvg-name="IPTV经典电影" tvg-logo="https://epg.v1.mk/logo/IPTV经典电影.png" group-title="其他",IPTV经典电影
+http://112.255.69.58:6666/rtp/239.253.254.126:8000
+#EXTINF:-1,tvg-id="IPTV热播剧场" tvg-name="IPTV热播剧场" tvg-logo="https://epg.v1.mk/logo/IPTV热播剧场.png" group-title="其他",IPTV热播剧场
+http://112.255.69.58:6666/rtp/239.253.254.125:8000
+#EXTINF:-1,tvg-id="IPTV少儿动画" tvg-name="IPTV少儿动画" tvg-logo="https://epg.v1.mk/logo/IPTV少儿动画.png" group-title="其他",IPTV少儿动画
+http://112.255.69.58:6666/rtp/239.253.254.127:8000
+#EXTINF:-1,tvg-id="IPTV魅力时尚" tvg-name="IPTV魅力时尚" tvg-logo="https://epg.v1.mk/logo/IPTV魅力时尚.png" group-title="其他",IPTV魅力时尚
+http://112.255.69.58:6666/rtp/239.253.254.130:8000
+#EXTINF:-1,tvg-id="IPTV收视指南1" tvg-name="IPTV收视指南1" tvg-logo="https://epg.v1.mk/logo/IPTV收视指南1.png" group-title="其他",IPTV收视指南
+http://112.255.69.58:6666/rtp/239.253.254.124:8000
+#EXTINF:-1,tvg-id="BEIJINGIPTV4K" tvg-name="BEIJINGIPTV4K" tvg-logo="https://epg.v1.mk/logo/BEIJINGIPTV4K.png" group-title="其他",IPTV谍战剧场
+http://112.255.69.58:6666/rtp/239.253.254.135:8000
+#EXTINF:-1,tvg-id="IPTV相声小品" tvg-name="IPTV相声小品" tvg-logo="https://epg.v1.mk/logo/IPTV相声小品.png" group-title="其他",IPTV相声小品
+http://112.255.69.58:6666/rtp/239.253.254.136:8000
+#EXTINF:-1,tvg-id="BEIJINGIPTV4K" tvg-name="BEIJINGIPTV4K" tvg-logo="https://epg.v1.mk/logo/BEIJINGIPTV4K.png" group-title="其他",IPTV野外
+http://112.255.69.58:6666/rtp/239.253.254.137:8000
+#EXTINF:-1,tvg-id="BEIJINGIPTV4K" tvg-name="BEIJINGIPTV4K" tvg-logo="https://epg.v1.mk/logo/BEIJINGIPTV4K.png" group-title="其他",IPTV法治
+http://112.255.69.58:6666/rtp/239.253.254.138:8000
+#EXTINF:-1,tvg-id="BEIJINGIPTV4K" tvg-name="BEIJINGIPTV4K" tvg-logo="https://epg.v1.mk/logo/BEIJINGIPTV4K.png" group-title="其他",IPTV音乐现场
+http://112.255.69.58:6666/rtp/239.253.254.202:8000
+#EXTINF:-1,tvg-id="IPTV电视剧" tvg-name="IPTV电视剧" tvg-logo="https://epg.v1.mk/logo/IPTV电视剧.png" group-title="其他",IPTV电竞体育赛事
+http://112.255.69.58:6666/rtp/239.253.254.172:8000
+#EXTINF:-1,tvg-id="BEIJINGIPTV4K" tvg-name="BEIJINGIPTV4K" tvg-logo="https://epg.v1.mk/logo/BEIJINGIPTV4K.png" group-title="其他",IPTV综合测试
+http://112.255.69.58:6666/rtp/239.253.254.167:8000
+#EXTINF:-1,tvg-id="ipanda" tvg-name="ipanda" tvg-logo="https://epg.v1.mk/logo/ipanda.png" group-title="其他",ipanda
+http://112.255.69.58:6666/rtp/239.253.254.237:8000
+#EXTINF:-1,tvg-id="海洋频道" tvg-name="海洋频道" tvg-logo="https://epg.v1.mk/logo/海洋频道.png" group-title="其他",海洋频道
+http://112.255.69.58:6666/rtp/239.253.254.67:8000
+#EXTINF:-1,tvg-id="车迷频道" tvg-name="车迷频道" tvg-logo="https://epg.v1.mk/logo/车迷频道.png" group-title="其他",车迷频道（标清）
+http://112.255.69.58:6666/rtp/239.253.254.73:8000
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="甘肃",甘肃卫视
+http://112.255.69.58:6666/rtp/239.253.254.74:8000
+#EXTINF:-1,tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://epg.v1.mk/logo/中华特产.png" group-title="其他",中华特产
+http://112.255.69.58:6666/rtp/239.253.254.76:8000
+#EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="其他",CETV4
+http://112.255.69.58:6666/rtp/239.253.254.116:8000
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="其他",金鹰卡通
+http://112.255.69.58:6666/rtp/239.253.254.117:8000
+#EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://epg.v1.mk/logo/四海钓鱼.png" group-title="其他",四海钓鱼
+http://112.255.69.58:6666/rtp/239.253.254.118:8000
+#EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.v1.mk/logo/纪实人文.png" group-title="其他",纪实人文
+http://112.255.69.58:6666/rtp/239.253.254.120:8000
+#EXTINF:-1,tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://epg.v1.mk/logo/延边卫视.png" group-title="卫视",延边卫视
+http://112.255.69.58:6666/rtp/239.253.254.121:8000
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.v1.mk/logo/梨园.png" group-title="其他",梨园频道
+http://112.255.69.58:6666/rtp/239.253.254.139:8000
+#EXTINF:-1,tvg-id="武术" tvg-name="武术" tvg-logo="https://epg.v1.mk/logo/武术.png" group-title="其他",武术频道
+http://112.255.69.58:6666/rtp/239.253.254.140:8000
+#EXTINF:-1,tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://epg.v1.mk/logo/文物宝库.png" group-title="其他",文物宝库
+http://112.255.69.58:6666/rtp/239.253.254.141:8000
+#EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://epg.v1.mk/logo/精彩影视.png" group-title="其他",精彩影视
+http://112.255.69.58:6666/rtp/239.253.254.142:8000
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.v1.mk/logo/茶.png" group-title="其他",茶频道
+http://112.255.69.58:6666/rtp/239.253.254.143:8000
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.v1.mk/logo/快乐垂钓.png" group-title="其他",快乐垂钓
+http://112.255.69.58:6666/rtp/239.253.254.144:8000
+#EXTINF:-1,tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://epg.v1.mk/logo/先锋乒羽.png" group-title="其他",先锋乒羽
+http://112.255.69.58:6666/rtp/239.253.254.145:8000
+#EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.v1.mk/logo/书画.png" group-title="其他",书画频道
+http://112.255.69.58:6666/rtp/239.253.254.146:8000
+#EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.v1.mk/logo/财富天下.png" group-title="其他",财富天下
+http://112.255.69.58:6666/rtp/239.253.254.147:8000
+#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.v1.mk/logo/家庭理财.png" group-title="其他",家庭理财
+http://112.255.69.58:6666/rtp/239.253.254.148:8000
+#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.v1.mk/logo/新动漫.png" group-title="其他",新动漫
+http://112.255.69.58:6666/rtp/239.253.254.149:8000
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="吉林",吉林卫视
+http://112.255.69.58:6666/rtp/239.253.254.173:8000
+#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.v1.mk/logo/中国交通.png" group-title="其他",中国交通
+http://112.255.69.58:6666/rtp/239.253.254.177:8000
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="其他",都市频道
+http://112.255.69.58:6666/rtp/239.253.254.178:8000
+#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="其他",CGTV西班牙
+http://112.255.69.58:6666/rtp/239.253.254.182:8000
+#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="其他",CGTV法国
+http://112.255.69.58:6666/rtp/239.253.254.183:8000
+#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="其他",CGTV阿拉伯
+http://112.255.69.58:6666/rtp/239.253.254.184:8000
+#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="其他",CGTV巴基斯坦
+http://112.255.69.58:6666/rtp/239.253.254.185:8000
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV4（中文欧洲）
+http://112.255.69.58:6666/rtp/239.253.254.186:8000
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV4（中文美洲）
+http://112.255.69.58:6666/rtp/239.253.254.187:8000
+#EXTINF:-1,tvg-id="cgtn" tvg-name="cgtn" tvg-logo="https://epg.v1.mk/logo/cgtn.png" group-title="央视",CGTN
+http://112.255.69.58:6666/rtp/239.253.254.188:8000
+#EXTINF:-1,tvg-id="cgtn" tvg-name="cgtn" tvg-logo="https://epg.v1.mk/logo/cgtn.png" group-title="央视",CGTN
+http://112.255.69.58:6666/rtp/239.253.254.189:8000
